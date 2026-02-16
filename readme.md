@@ -56,6 +56,7 @@ Single:
 ![Anonymized Image](output/epstein.png)
 
 Multiple:
+
 ![Original Image](output/multiple.jpg)
 
 ![Anonymized Image](output/multiple_faces.png)
